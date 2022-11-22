@@ -19,12 +19,28 @@ The Level-2 ATBDs developed by the CIMR DEVALGO study, sorted by Level-2 Product
 
 In addition, an Ocean and Sea Ice Integrated Retrieval ATBD is developed.
 
+Repositories holding the content of the ATBDs are at the bottom of this page.
+
 ### Background
 
 CIMR is the Copernicus Imaging Microwave Radiometer mission, a multi-frequency, conically-scanning passive microwave imager
 designed by ESA to support EU's Arctic Policy, among others. Its launch is scheduled in 2029.
 More info about CIMR [here](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Copernicus_Sentinel_Expansion_missions) and
 [here](https://cimr.eu).
+
+### Objectives and Concept
+
+CIMR DEVALGO develops selected CIMR Level-2 ATBDs in the form of [jupyterbooks](https://jupyterbook.org/en/stable/intro.html). The aim of the study is to:
+
+> Provide baseline Level-2 retrieval Algorithm Theoretical Baseline Documents (ATBD)  - and supporting prototype software and validation data - for the CIMR Mission.
+
+ATBDs are developed in two stages:
+* v1 ATBDs describe the selected algorithm and expected input/output data streams.
+* v2 ATBDs further describe the algorithm, add an open-source software prototype of the algorithm, and perform performance evaluation.
+
+The figure below gives a general concept for the suite of DEVALGO ATBDs:
+
+![The CIMR DEVALGO Concept](./profile/imgs/devalgo_concept.png)
 
 ### The DEVALGO Team
 
