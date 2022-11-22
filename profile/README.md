@@ -31,6 +31,6 @@ More info about CIMR [here](https://www.esa.int/Applications/Observing_the_Earth
 The DEVALGO team is led by Thomas Lavergne from the Norwegian Meteorological Institute (NO). The consortium partners are the University of Bremen (DE),
 the Danish Meteorological Institute (DK), IFREMER (FR), and the Finnish Meteorological Institute (FI).
 
-![alt text](./profile/imgs/devalgo_team.png "The CIMR DEVALGO Team | width=250")
+![The CIMR DEVALGO Team](./profile/imgs/devalgo_team.png | width=250)
 
 
