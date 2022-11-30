@@ -10,7 +10,7 @@ The Level-2 ATBDs developed by the CIMR DEVALGO study, sorted by Level-2 Product
 * Polar Regions and Adjacent Seas:
    * Level-2 Sea Ice Concentration, Sea Ice Edge, and SIC in NRT1H 
    * [Level-2 Sea Ice Drift v1](https://cimr-algos.github.io/SeaIceDrift_ATBD/intro.html)
-   * Level-2 Sea Ice Thickness 
+   * [Level-2 Sea Ice Thickness v1](https://cimr-algos.github.io/SeaIceThickness_ATBD/intro.html)
    * [Level-2 Sea Surface Temperature v1](https://cimr-algos.github.io/SeaSurfaceTemperature_ATBD/intro.html) 
    * Level-2 Sea Surface Salinity 
    * Level-2 Ocean Wind Vectors 
