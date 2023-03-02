@@ -16,7 +16,7 @@ The Level-2 ATBDs developed by the CIMR DEVALGO study, sorted by Level-2 Product
    * [Level-2 Ocean Wind Vectors v1](https://cimr-algos.github.io/L2OWV/intro.html)
 * Global Land:
    * [Level-2 Terrestrial Snow Area v1](https://cimr-algos.github.io/TerrestrialSnowArea_ATBD/intro.html)
-   * Level-2 Soil Moisture
+   * Level-2 Soil Moisture (v1 will come later in 2023)
 
 In addition, a [Multi-Parameter Retrieval for Polar Ocean, Sea Ice, and Atmosphere variables v1](https://cimr-algos.github.io/MultiParameter_ATBD/intro.html) ATBD is developed.
 
