@@ -8,16 +8,17 @@ The CIMR DEVALGO study is a 2-year ESA-funded study (2022-2024) funded to develo
 
 The Level-2 ATBDs developed by the CIMR DEVALGO study, sorted by Level-2 Product families, are:
 * Polar Regions and Adjacent Seas:
-   * Level-2 Sea Ice Concentration, Sea Ice Edge, and SIC in NRT1H 
+   * [Level-2 Sea Ice Concentration, Sea Ice Edge, and SIC in NRT1H v1](https://cimr-algos.github.io/SeaIceConcentration_ATBD/intro.html) 
    * [Level-2 Sea Ice Drift v1](https://cimr-algos.github.io/SeaIceDrift_ATBD/intro.html)
    * [Level-2 Sea Ice Thickness v1](https://cimr-algos.github.io/SeaIceThickness_ATBD/intro.html)
    * [Level-2 Sea Surface Temperature v1](https://cimr-algos.github.io/SeaSurfaceTemperature_ATBD/intro.html) 
-   * [Level-2 Sea Surface Salinity v1](https://cimr-algos.github.io/L2SSS/intro.html)
-   * Level-2 Ocean Wind Vectors 
+   * [Level-2 Sea Surface Salinity v1](https://cimr-algos.github.io/SeaSurfaceSalinity_ATBD/intro.html)
+   * [Level-2 Ocean Wind Vectors v1](https://cimr-algos.github.io/OceanWindVectors_ATBD/intro.html)
 * Global Land:
    * [Level-2 Terrestrial Snow Area v1](https://cimr-algos.github.io/TerrestrialSnowArea_ATBD/intro.html)
+   * Level-2 Soil Moisture (v1 will come later in 2023)
 
-In addition, an Ocean and Sea Ice Integrated Retrieval ATBD is developed.
+In addition, a [Multi-Parameter Retrieval for Polar Ocean, Sea Ice, and Atmosphere variables v1](https://cimr-algos.github.io/MultiParameter_ATBD/intro.html) ATBD is developed.
 
 Repositories holding the content of the ATBDs are at the bottom of this page.
 
