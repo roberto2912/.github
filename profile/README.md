@@ -20,7 +20,7 @@ The Level-2 ATBDs developed by the CIMR DEVALGO study, sorted by Level-2 Product
 
 In addition, a [Multi-Parameter Retrieval for Polar Ocean, Sea Ice, and Atmosphere variables v1](https://cimr-algos.github.io/MultiParameter_ATBD/intro.html) ATBD is developed.
 
-**Pre-requisite (for Level-1B)** : Our Level-2 ATBDs (specifically the SSS and OWV ATBDs) also describe relevant TB correction algorithms that **will eventually be implemented in the Level-1B** (and not at Level-2). We include these steps as a reference, but they shall eventually be defined in the CIMR Level-1B ATBD. These include but are not limited to:
+:warning: **Pre-requisite (for Level-1B)** : Our Level-2 ATBDs (specifically the SSS and OWV ATBDs) also describe relevant TB correction algorithms that **will eventually be implemented in the Level-1B** (and not at Level-2). We include these steps as a reference, but they shall eventually be defined in the CIMR Level-1B ATBD. These include but are not limited to:
 * Corrections for the sky and Sun direct and Earth reflected/scattered radiation (L-band)
 * Faraday rotation across the ionosphere (L-band),
 * Rotation of the Stokes parameter from the antenna polarization basis to the surface polarization basis (all bands).
